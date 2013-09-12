@@ -1,0 +1,5 @@
+libvmod-cookie (1.0) unstable; urgency=low
+
+  * Better debian build scripts
+
+ -- Ramin Khatibi <ops@snappytv.com>  Wed, 12 Sep 2014 11:56:30 +0700
